@@ -2,8 +2,6 @@
 
 A collection of three diverse Java applications showcasing object-oriented programming, game development, and algorithm implementation.
 
-![Project Showcase](/assets/showcase.png)
-
 ## Table of Contents
 - [Projects](#projects)
   - [1. Shape Analyzer](#1-shape-analyzer)
