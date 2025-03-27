@@ -1,6 +1,6 @@
 # Java Programming Projects 🚀
 
-A collection of three diverse Java applications showcasing object-oriented programming, game development, and algorithm implementation.
+A collection of three diverse Java applications showcasing object-oriented programming, game development, algorithm implementation and JUnit5 testing.
 
 ## Table of Contents
 - [Projects](#projects)
